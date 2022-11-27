@@ -67,7 +67,7 @@ li {
 }
 
 .abc {
-    color: black;
+    color: black !important;
 }
 @media screen and (max-width: 900px) {
     .navbar {
